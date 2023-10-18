@@ -65,7 +65,7 @@
     "@babel/plugin-transform-runtime": "7.21.4",
     "@babel/preset-env": "7.21.4",
     "@babel/preset-typescript": "^7.21.4",
-    "@babel/traverse": "7.21.4",
+    "@babel/traverse": "7.23.2",
     "@types/jest": "^29.5.0",
     "ast-stringify": "0.1.0",
     "babel-core": "7.0.0-bridge.0",

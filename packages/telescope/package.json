@@ -81,7 +81,7 @@
     "@babel/preset-env": "7.21.4",
     "@babel/preset-typescript": "^7.21.4",
     "@babel/runtime": "^7.21.0",
-    "@babel/traverse": "7.21.4",
+    "@babel/traverse": "7.23.2",
     "@babel/types": "7.21.4",
     "@cosmology/ast": "^0.89.0",
     "@cosmology/proto-parser": "^0.46.0",
